@@ -1,0 +1,51 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.common{
+    background-color: rgb(116, 155, 155);
+    border: solid 2px black;
+    position:absolute;
+}
+
+.header{
+    top:5px;
+    right:5px;
+    left:5px;
+    height: 75px;
+    text-align: right;
+}
+.mainbody1{
+    top:130px;
+    left:5px;
+    right:5px;
+    text-align: center;
+    font-size: larger;
+}
+.footer{
+    bottom:5px;
+    right:5px;
+    left:5px;
+    height: 25px;
+    font-size: 8px;
+    color: rgb(53, 50, 50);
+    text-align: center;
+    position: fixed;
+}
+.tableau{
+    height: 30%;
+    width:70%;
+    text-align: center;
+}
+
+.textstyle{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    text-align: center;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a, a:visited{
+    color: black;
+}
